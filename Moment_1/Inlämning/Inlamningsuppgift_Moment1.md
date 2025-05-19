@@ -50,5 +50,3 @@ Samla allt i en mapp, packa som ZIP och ladda upp:
 | Sessions-räknare    | Rätt session-räkning och grundläggande förklaring.                | Hantering av session timeout, förklaring av säkerhetsaspekter.    |
 | Statisk vs Dynamisk | Kort jämförelse med tydliga för- och nackdelar.                   | Tar upp caching-strategier och hybridlösningar.                   |
 
-### Deadline
-**Inlämning:** Senast fredag vecka X kl. 23:59.
