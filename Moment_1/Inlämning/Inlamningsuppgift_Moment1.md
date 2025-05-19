@@ -30,13 +30,13 @@ Att visa att du kan:
    - Ge ett konkret exempel (t.ex. portfolio vs webbshop).
 
 ### Inlämningsformat
-Samla allt i en mapp, packa som ZIP och ladda upp:
+Samla allt i en mapp, pusha till github:
 
 - **Kodfiler**:
   - `hello.php`
   - `request.php`
   - `visits.php`
-- **Dokument** (PDF eller Markdown):
+- **Dokument** (Markdown):
   - Skärmdumpar (Installation)
   - Svar på reflektionsfrågor (punkter 2, 3 och 4)
   - För- och nackdelsjämförelse (punkt 5)
